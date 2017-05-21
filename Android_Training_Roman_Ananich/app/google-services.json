@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "765342740475",
+    "firebase_url": "https://androidtrainingromanananich.firebaseio.com",
+    "project_id": "androidtrainingromanananich",
+    "storage_bucket": "androidtrainingromanananich.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765342740475:android:4c742d25dabdade0",
+        "android_client_info": {
+          "package_name": "com.example.nowel.android_training_roman_ananich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765342740475-stkpockgdkqckn1ujlkaceontisn7goj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nowel.android_training_roman_ananich",
+            "certificate_hash": "35061dcce80509a94cac9142c3392b6b4f28917f"
+          }
+        },
+        {
+          "client_id": "765342740475-q9aq7vr4akutceiebcdrcnvmu3okii9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dwBiTI0Bd-cNkQHutMX43Q84urHxS6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765342740475-q9aq7vr4akutceiebcdrcnvmu3okii9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
